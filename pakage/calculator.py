@@ -1,3 +1,4 @@
+# class and object
 class calc:
     def __init__(self,
         a=0,

@@ -2,7 +2,7 @@
 
 ### Here i have created a calculator program which will return addition and substraction
 
-- Use below code to use calculator pakage
+- Use below code to use calculator pakage now
 
 '''python
 
