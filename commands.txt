@@ -1,0 +1,12 @@
+    1  git config --global user.name venky14353
+    2  git config --global user.email venkatareddyagraharam@gmail.com
+    3  git config --list
+    4  git init
+    5  git add .
+    6  git status
+    7  git commit -m "first commit"
+    8  git branch -M main
+    9  git remote add origin https://github.com/venky14353/Demo.git
+   10  git push -u origin main
+   11  history
+   12  history>commands.txt
