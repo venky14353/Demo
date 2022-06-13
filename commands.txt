@@ -1,0 +1,92 @@
+moified text command file
+
+
+    1  git config --global user.name venky14353
+    2  git config --global user.email venkatareddyagraharam@gmail.com
+    3  git config --list
+    4  git init
+    5  git add .
+    6  git status
+    7  git commit -m "first commit"
+    8  git branch -M main
+    9  git remote add origin https://github.com/venky14353/Demo.git
+   10  git push -u origin main
+   11  history
+   12  history>commands.txt
+   13  git push -u origin main
+   14  git status
+   15  git add .
+   16  git push -u origin main
+   17  git status
+   18  git remote add origin https://github.com/venky14353/sample.txt
+   19  git push pu origin main
+   20  git push -u origin main
+   21  git push --help
+   22  git config --list
+   23  git config --list
+   24  git init
+   25  git status
+   26  touch.gitignore
+   27  touch gitignore
+   28  git status
+   29  git add .
+   30  git add .
+   31  git status
+   32  git commit
+   33  git branch -m main
+   34  git remote add origin https://github.com/venky14353/Demo.git
+   35  git remote -v
+   36  git push -u origin main
+   37  git status
+   38  git push -u origin main
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -m "calculator program"
+   43  git push
+   44  git status
+   45  git commit -a
+   46  git branch -m
+   47  git branch -m main
+   48  git remote --list
+   49  git remote add origin https://github.com/venky14353/pakage.git
+   50  git remote -v
+   51  git push -u origin main
+   52  git push --help
+   53  git pull origin main
+   54  git status
+   55  git commit
+   56  git list
+   57  history
+   58  git commit -m "modified files"
+   59  git add .
+   60  git status
+   61  git status
+   62  git commit
+   63  git remote -v
+   64  git status
+   65  git branch
+   66  git add .
+   67  git status
+   68  git add .
+   69  git status
+   70  git commit
+   71  git push -u origin main
+   72  git branch 
+   73  git branch team a
+   74  git branch teama
+   75  git checkout teama
+   76  git status
+   77  git add .
+   78  git commit
+   79  git push -u origin teama
+   80  git branch
+   81  git checkin teama
+   82  git check-ignore teama
+   83  git branch
+   84  git status
+   85  git checkout main
+   86   history<commands.txt>
+   87  history<commands.txt
+   88  history<commands.text
+   89  history>commands.txt

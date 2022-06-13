@@ -12,3 +12,6 @@ class calc:
 
     def substraction(self):
         return self.a-self.b
+
+    def multiplication(self):
+        return self.a*self.b

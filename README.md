@@ -10,6 +10,7 @@
 >>>cal = cl.calc(a=10 b=20)
 >>>cal.addition()
 >>>cal.substraction()
+>>>cal.multiplication()
 
 '''
 
